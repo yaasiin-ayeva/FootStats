@@ -1,6 +1,8 @@
 # 2xProject
 
-How to set up your environment
+How to set up your environment<br/>
+
+
 Prerequisites: openjdk-11-jdk, wildfly application Server v22.final
 Install and configure the wildfly server using the article at the end of this link :
 https://vitux.com/install-and-configure-wildfly-jboss-on-ubuntu/
